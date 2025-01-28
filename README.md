@@ -7,4 +7,4 @@
 [![Blog](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
 [![Blog](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagolimaq_icons=true&theme=radical)
+![TiagoLimaQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
