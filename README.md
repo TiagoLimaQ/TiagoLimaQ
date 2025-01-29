@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Olá, me chamo Tiago e através do GitHub tenho a intenção de compartilhar meu aprendizado no mundo da programação, atualmente estou estudando MYSQL, HTML, CSS, JS, NODEJS, PYTHON e GML(Hobbie).
+
 [![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![Blog](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#)
 [![Blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
